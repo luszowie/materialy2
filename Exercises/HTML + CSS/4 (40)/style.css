@@ -1,0 +1,21 @@
+.box1 {
+    color: white;
+    height: 100px;
+    weight: 200px;
+    background-color: black;
+    font-color: white;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+}
+.box2, .box3, .box4, .box5, .box6.{
+    height: 100px;
+    weight: 200px;
+    border: black 3px solid;
+}
+
+
+
+li {
+    border: black 3px;
+    list-style-type: none;
+}
